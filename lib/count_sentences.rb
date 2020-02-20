@@ -18,3 +18,4 @@ class String
     self.split(/[?!.]\s/).length
   end
 end
+
